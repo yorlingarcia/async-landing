@@ -53,3 +53,5 @@ async function fetchData(urlApi) {
     window.alert(error);
   }
 })();
+
+// se uso npm install gh-pages --save-dev para usar npm run deploy en la consola
